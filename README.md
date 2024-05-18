@@ -96,8 +96,8 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fwagesb&show_icons=true&locale=en&layout=compact" alt="fwagesb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fwagesb&show_icons=true&locale=en" alt="fwagesb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnanandap&show_icons=true&locale=en&layout=compact" alt="fwagesb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnanandap&show_icons=true&locale=en" alt="fwagesb" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fwagesb&" alt="fwagesb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanandap&" alt="fwagesb" /></p>
 
